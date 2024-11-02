@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>/introduction/</link>
+      <pubDate>Fri, 01 Nov 2024 07:07:07 +0100</pubDate>
+      
+      <guid>/introduction/</guid>
+      <description>Design Philosophy Open: Designed to be modular and extensible to make it your own. Avoids tight coupling of mechanics. Use the parts you like, steal or make your own for the rest. Accessible: Simple and fast character generation with consistent rules that can be learned during play. Fiction Focused: It’s about exploring the world, not endless stats. All the rules aim to enhance the fiction. Guidelines: Provide descriptive instead of prescriptive dogma.</description>
+    </item>
+    
+  </channel>
+</rss>
