@@ -1,9 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-baseurl      = "localhost"
-title        = "My Blog"
-languageCode = "en-us"
-theme        = "hello-friend-ng"
-paginate     = 10
-
